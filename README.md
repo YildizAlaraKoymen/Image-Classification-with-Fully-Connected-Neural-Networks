@@ -2,6 +2,9 @@
 
 This project implements an image classification pipeline using two different fully connected feed-forward neural network architectures: one with 2 layers and one with 3 layers. The goal is to classify RGB images (cloudy, shine, sunrise) by learning from their pixel features.
 
+# NOTE
+Can't upload dataset.zip because file size limitations. Will provide upon request if needed.
+
 ## Dataset
 
 The dataset contains 908 images across 3 categories:
